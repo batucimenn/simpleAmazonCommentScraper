@@ -1,1 +1,1 @@
-# simpleAmazonCommentScraper
+# Simple Amazon Comment Scraper
